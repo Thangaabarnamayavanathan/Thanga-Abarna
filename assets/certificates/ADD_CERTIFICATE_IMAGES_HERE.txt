@@ -1,0 +1,1 @@
+Add certificate-1.jpg through certificate-7.jpg in this folder. See README.txt for details.
